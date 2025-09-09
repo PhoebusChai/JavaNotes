@@ -21,7 +21,7 @@
 
 ### 流程图
 
-[Bean 生命周期](../static/image/Bean的生命周期.png)
+![Bean 生命周期](../static/image/Bean的生命周期.png)
 
 ### 概述：
 
